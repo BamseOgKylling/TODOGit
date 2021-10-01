@@ -1,4 +1,6 @@
 ﻿using System;
+using static System.Console;
+using System.Threading;
 
 namespace TODOGit
 {
@@ -6,7 +8,7 @@ namespace TODOGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
